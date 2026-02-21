@@ -1,0 +1,12 @@
+{
+  "name": "lead-nurture-email-series",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p output && mjml email-*.mjml -o output/",
+    "build:watch": "mkdir -p output && mjml -w email-*.mjml -o output/"
+  },
+  "devDependencies": {
+    "mjml": "^4.15.3"
+  }
+}

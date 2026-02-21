@@ -1,0 +1,10 @@
+<!-- Reusable header: logo + tagline. For production, replace image src with a full URL. -->
+<mj-section padding="24px 24px 16px" background-color="#ffffff">
+  <mj-column>
+    <mj-image src="../assets/images/aegis-logo.png" alt="Aegis - Integrated Security & Facility Solutions" width="200px" fluid-on-mobile="true" padding="0" href="https://www.aegis.com" align="center" />
+    <mj-text align="center" font-size="13px" color="#6b7280" font-family="Helvetica, Arial, sans-serif" padding-top="8px" padding-bottom="0" line-height="1.4">
+      Integrated Security &amp; Facility Solutions
+    </mj-text>
+    <mj-divider border-color="#e5e7eb" border-width="1px" padding-top="16px" padding-bottom="0" />
+  </mj-column>
+</mj-section>
