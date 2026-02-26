@@ -22,7 +22,7 @@
         </mj-button>
       </mj-column>
       <mj-column width="45%" vertical-align="top">
-        <mj-image src="https://placehold.co/320x400/1e3a5f/ffffff?text=Hero+Image" alt="Integrated monitoring" width="280px" fluid-on-mobile="true" padding="0" align="center" />
+        <mj-image src="../assets/images/hero-3.png" alt="Integrated monitoring" width="280px" fluid-on-mobile="true" padding="0" align="center" />
       </mj-column>
     </mj-section>
     <!-- Feature section: What Integrated Monitoring Looks Like -->

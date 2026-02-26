@@ -26,22 +26,14 @@
       </mj-column>
 
       <mj-column width="45%" vertical-align="top">
-        <mj-image src="https://placehold.co/320x400/1e3a5f/ffffff?text=Hero+Image" alt="Client testimonial" width="280px" fluid-on-mobile="true" padding="0" align="center" />
+        <mj-image src="../assets/images/hero-4.png" alt="Client testimonial" width="280px" fluid-on-mobile="true" padding="0" align="center" />
       </mj-column>
     </mj-section>
 
     <!-- Review section: image -->
     <mj-section padding="40px 24px" background-color="#f9fafb">
       <mj-column>
-        <mj-image
-          src="../assets/images/review.png"
-          alt="What Our Clients Are Saying - testimonial from Operations Director, Commercial Property Group"
-          width="560px"
-          fluid-on-mobile="true"
-          padding="0"
-          align="center"
-          border-radius="12px"
-        />
+        <mj-image src="../assets/images/review.png" alt="What Our Clients Are Saying - testimonial from Operations Director, Commercial Property Group" width="560px" fluid-on-mobile="true" padding="0" align="center" border-radius="12px" />
       </mj-column>
     </mj-section>
 
